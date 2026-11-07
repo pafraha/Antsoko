@@ -1,0 +1,6 @@
+{
+  "name": "Antsoiray",
+  "description": "Application complète de communication Talkyto : appels voix et VoIP, SMS/MMS, gestion des contacts, messagerie vocale et mode professionnel avec inscription par numéro personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
